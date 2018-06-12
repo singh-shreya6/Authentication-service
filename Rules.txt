@@ -1,0 +1,18 @@
+We are experimenting with a new type of login portal having a set of questions.
+Here are the features and rules to be followed while logging in:
+
+1)A registration page for first time signup which includes creating a username and answering 6 questions out of 10 available questions.
+
+2)Answers have to be provided for 6 questions in the box given below the question.
+
+3)For question number 3 and 10,drop down menu has been provided out of whichcorrect answer has to be chosen.
+
+4)After registration,user has to login by entering their username and proceed.
+
+5)Next those 6 selected question will be displayed along with 4 options.
+
+6)A set of options from A to D have been provided corresponding to every question.
+
+7)In the password field user has to enter the correct options for the 6 questions.
+
+8)If all the answers are correct,user will be granted login.

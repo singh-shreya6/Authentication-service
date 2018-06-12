@@ -1,0 +1,77 @@
+.formdiv{
+	text-align:left;}
+h2 
+{
+	text-align: center;
+    background-color: teal;
+	font-family: "serif";
+}
+form{
+	text-align: center;
+
+}
+
+form h2{
+	text-align:center; 
+	text-shadow:2px 2px 2px #cfcfcf; 
+	} 
+p1{
+	font-family: "Verdana", Times, serif;
+	font-size:14px;
+	color: #000000;
+}
+label{
+	color: #000000;
+	font-family: "Sans-serif";
+}
+table{
+	border-collapse: collapse;
+}
+td{
+	height:50px;
+	width:100px;
+}
+
+input[type=password] {
+    padding:5px 15px; 
+	height:50px;
+	width:20%;
+	margin-top:5px;
+    background:white;
+    border-radius: 5px; 
+	border:5px solid black;
+	color: black;
+	font-family:caption;
+	font-weight:bold;
+}
+input[type=text] {
+    padding:5px 15px; 
+	height:50px;
+	width:20%;
+	margin-top:5px;
+    background:white;
+    border-radius: 5px; 
+	border:5px solid black;
+	color: black;
+	font-family:caption;
+	font-weight:bold;
+}
+
+
+input[type=submit] {
+    padding:5px 15px; 
+	height:50px;
+	width:10%;
+	margin-top:5px;
+    background:teal;
+    border-radius: 5px; 
+	border:none;
+	color: white;
+	font-weight:bold;
+}
+
+h2{
+	background-color:teal;
+	font-size:50px;
+}
+

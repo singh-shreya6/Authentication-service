@@ -1,0 +1,84 @@
+body {
+    background-color: #EE7621;
+}
+h2 
+{
+	text-align: center;
+    background-color: #8B0000;
+	font-family: "serif";
+	color:white;
+}
+
+input[type=Submit] {
+    padding:5px 15px; 
+	height:25px;
+	width:20%;
+    background:purple; 
+    border:none;
+    cursor:pointer;
+    border-radius: 5px; 
+	color: black;
+	font-weight:bold;
+	margin-left:560px;
+	
+	}
+	input[name=avail]
+	{
+		margin-left:5px;
+		width:12%;
+		background:white;
+	}
+
+p{
+	font-family: "Verdana", Times, serif;
+	font-size:14px;
+	color: #000080;
+}
+.col1{
+	width:50%;
+	height:380px;
+	float:left;
+	text-align:center;
+	background-color:#FFD39B;
+}
+
+.col2{
+	width:50%;
+	height:380px;
+	float:right;
+	text-align:center;
+	background-color:#FFC125;
+}
+form select {
+        width:150px;
+		height:25px;
+    }
+input[type=text] {
+	margin-top:10px;
+    width:220px; 
+	height:25px; 
+	border-radius:2px;
+	box-shadow:0px 0px 1px 2px #123456; 
+	padding:7px;
+	border:none;
+}
+input[name=userid]
+{
+	margin-left:10px;
+}
+
+label{
+	font-family: "Verdana", Times, serif;
+	font-size:14px;
+	color: #000080;
+	margin-left:500px;
+
+}
+a{
+	float:right;
+	color:white;
+}
+	h4{
+		margin-left:380px;
+	}
+	
